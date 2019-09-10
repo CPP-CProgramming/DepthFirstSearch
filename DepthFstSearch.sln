@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DepthFstSearch", "DepthFstSearch.vcxproj", "{D916A883-B3D6-497D-B4C4-50D77BB79B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Debug|x64.ActiveCfg = Debug|x64
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Debug|x64.Build.0 = Debug|x64
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Debug|x86.Build.0 = Debug|Win32
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Release|x64.ActiveCfg = Release|x64
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Release|x64.Build.0 = Release|x64
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Release|x86.ActiveCfg = Release|Win32
+		{D916A883-B3D6-497D-B4C4-50D77BB79B0A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDBA24B1-A75F-42B2-BE46-C753AFC6D6CE}
+	EndGlobalSection
+EndGlobal
